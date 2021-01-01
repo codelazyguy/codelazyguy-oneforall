@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Happy New Year</p>
       </header>
     </div>
   );
