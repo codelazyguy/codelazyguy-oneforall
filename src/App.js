@@ -17,7 +17,7 @@ function App() {
         >
           Learn React Here
         </a>
-        <p>Happy New Year 2021 - Help Fun</p>
+        <p className="App-happy">Happy New Year 2021 - Help Fun</p>
       </header>
     </div>
   );

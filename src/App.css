@@ -31,6 +31,9 @@
 .App-welcome{
   color: greenyellow;
 }
+.App-happy{
+  color: greenyellow;
+}
 
 @keyframes App-logo-spin {
   from {
