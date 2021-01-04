@@ -21,18 +21,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: greenyellow;
 }
 
 .App-link {
   color: #61dafb;
-}
-
-.App-welcome{
-  color: greenyellow;
-}
-.App-happy{
-  color: greenyellow;
 }
 
 @keyframes App-logo-spin {
