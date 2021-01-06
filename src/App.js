@@ -20,8 +20,6 @@ function App() {
         </a>
         <p className="App-happy">Happy New Year 2021 - Help Fun</p>
         <h5>Thank all</h5>
-        <div></div>
-
       </header>
     </div>
   );
