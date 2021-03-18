@@ -24,6 +24,7 @@ app.use(cors());
 
 //
 //
+//
 
 const CONNECTION_URL = 'mongodb+srv://codelazyguy-oneforall:codelazyguy-oneforall@codelazyguy-oneforall.dootw.mongodb.net/codelazyguy-oneforall?retryWrites=true&w=majority'
 const PORT = process.env.PORT || 6000;
